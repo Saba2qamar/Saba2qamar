@@ -71,13 +71,6 @@ Developed Kafka-based event-driven architecture and 2+ RESTful API endpoints, si
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Saba2qamar&show_icons=true&theme=github_dark&hide_border=true&hide_title=true" height="150"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saba2qamar&layout=compact&theme=github_dark&hide_border=true" height="150"/>
 
 </div>
 
