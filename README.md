@@ -1,123 +1,88 @@
-<h1 align="center">Hi, I'm Saba Qamar 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>Frontend Developer · AI/ML Enthusiast · CS Student @ Banasthali Vidyapith</b>
-</p>
+# Saba Qamar
 
-<p align="center">
-  <a href="mailto:sabaqamarsiddiqi@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/saba-qamar">💼 LinkedIn</a> •
-  <a href="https://github.com/Saba2qamar">🐙 GitHub</a>
-</p>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/saba-qamar)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sabaqamarsiddiqi@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Saba2qamar)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com)
 
-## 👩‍💻 About Me
-
-- 🎓 B.Tech CS student at **Banasthali Vidyapith** (CGPA: 8.7/10) — 2023–2027
-- 💻 Frontend Developer with experience in **React.js, Redux, Tailwind CSS**
-- 🤖 Building **SafeFace** — an AI-Based Face Recognition System (Final Year Project)
-- 🏆 Solved **300+ LeetCode problems** in Data Structures & Algorithms
-- 🌱 Currently exploring **Machine Learning** with TensorFlow & Keras
-- 🏅 **Smart India Hackathon 2024** participant (State Level)
-- 🎖️ NCC **'B' Certificate** holder with Grade A
+</div>
 
 ---
 
-## 🛠️ Tech Stack
-
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-
-**Backend & Database**
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
-
-**AI / ML**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+B.Tech Computer Science student at **Banasthali Vidyapith** (CGPA: 8.7 · 2023–2027), specializing in frontend development with React.js and exploring AI/ML through real-world projects. Currently building **SafeFace**, an AI-based face recognition system as my final year project.
 
 ---
 
-## 🚀 Featured Projects
+## Technical Skills
 
-### 🛒 [BookLoft](https://github.com/Saba2qamar/BookLoft) — Full-Stack E-Commerce App
-> React.js · Redux · Tailwind CSS · Node.js · Express.js · MongoDB
-
-- Built a full-stack bookstore app with product browsing, favorites, reviews & secure auth
-- Managed global state with Redux, integrated 3+ REST APIs
-- Deployed on **Netlify** for fast and reliable access
-
----
-
-### 🤖 [SafeFace](https://github.com/Saba2qamar/safeface1) — AI Face Recognition System *(Final Year Project)*
-> React.js · Flask · Python · TensorFlow/Keras · MongoDB Atlas
-
-- CNN-based face detection and recognition with real-time verification
-- Responsive React.js frontend with Flask REST APIs and MongoDB Atlas backend
+| Domain | Technologies |
+|---|---|
+| **Languages** | JavaScript, Python, C++, HTML, CSS, SQL, PHP |
+| **Frontend** | React.js, Redux, Tailwind CSS, Bootstrap |
+| **Backend** | Node.js, Express.js, Flask, REST APIs |
+| **Database** | MongoDB, MySQL |
+| **AI / ML** | TensorFlow, Keras, MediaPipe, CNN |
+| **Tools** | Git, Docker, Netlify, Thunder Client |
 
 ---
 
-### 🖱️ [AIR-MOUSE](https://github.com/Saba2qamar/AIR-MOUSE) — Hand Gesture Mouse Control
-> Python · MediaPipe · Computer Vision
+## Projects
 
-- Control your cursor with just your index finger — no physical mouse needed!
-- Uses MediaPipe for real-time hand tracking and gesture recognition
+### [BookLoft](https://github.com/Saba2qamar/BookLoft) — Full-Stack E-Commerce Platform
+`React.js` `Redux` `Node.js` `Express.js` `MongoDB` `Tailwind CSS`
 
----
-
-## 💼 Experience
-
-**Web Designer Intern — GAO Tek Inc.** *(Aug 2024 – Oct 2024)*
-- Built 5+ responsive web pages; improved UI layouts to meet usability standards
-
-**Software Engineering Simulation — JPMorgan Chase & Co. (Forage)**
-- Built Kafka-based event-driven architecture; developed 2+ RESTful API endpoints
+A complete bookstore application with product browsing, wishlists, reviews, and secure authentication. Built with Redux for state management and deployed on Netlify.
 
 ---
 
-## 🏆 Achievements & Certifications
+### [SafeFace](https://github.com/Saba2qamar/safeface1) — AI Face Recognition System *(Final Year Project)*
+`React.js` `Flask` `Python` `TensorFlow` `Keras` `MongoDB Atlas`
 
-- 🥇 **Smart India Hackathon 2024** — State Level (AI-Based Crop Recommendation System)
-- ☁️ **AWS Generative AI Planning** — Infosys (2024)
-- 💡 **300+ LeetCode problems** solved
+Real-time face detection and recognition using CNN-based deep learning models. Features a responsive React frontend connected to Flask REST APIs with MongoDB Atlas for secure data storage.
+
+---
+
+### [AIR-MOUSE](https://github.com/Saba2qamar/AIR-MOUSE) — Gesture-Controlled Mouse
+`Python` `MediaPipe` `Computer Vision`
+
+Touchless mouse control using hand gesture recognition via MediaPipe. The index finger moves the cursor; pinch gestures simulate clicks — no hardware required.
+
+---
+
+## Experience
+
+**Web Designer Intern — GAO Tek Inc.** `Aug 2024 – Oct 2024`
+Built and optimized 5+ responsive web pages, collaborating with cross-functional teams to translate business requirements into clean, accessible UI.
+
+**Software Engineering Simulation — JPMorgan Chase & Co.** *(Forage)*
+Developed Kafka-based event-driven architecture and 2+ RESTful API endpoints, simulating real-world backend engineering workflows.
+
+---
+
+## Achievements
+
+- 🏆 **Smart India Hackathon 2024** — State Level Participant (AI Crop Recommendation System)
+- ☁️ **AWS Generative AI Planning Certificate** — Infosys, 2024
+- 💡 **300+ LeetCode Problems** solved across DSA topics
 - 🎖️ **NCC 'B' Certificate** — Grade A
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saba2qamar&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saba2qamar&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Saba2qamar&show_icons=true&theme=github_dark&hide_border=true&hide_title=true" height="150"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saba2qamar&layout=compact&theme=github_dark&hide_border=true" height="150"/>
+
+</div>
 
 ---
 
-<p align="center">
-  <i>Let's connect and build something amazing together! 🚀</i>
-</p>
+<div align="center">
+<sub>Open to opportunities · Internships · Collaborations</sub>
+</div>
